@@ -35,7 +35,7 @@ packages used in main program
 * autopy
 * pyautogui
 
-packages ues in interface
+packages used to build interface
 * tkinter
 
 Implementation and Working
